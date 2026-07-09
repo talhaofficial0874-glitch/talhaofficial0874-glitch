@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Talha.png" width="100%" alt="Muhammad Talha Banner">
+  <img src="./banner.png" width="100%" alt="Muhammad Talha Banner">
 </p>
 <h1 align="center">Muhammad Talha</h1>
 
