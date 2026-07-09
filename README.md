@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Muhammad Talha Banner">
+</p>
 <h1 align="center">Muhammad Talha</h1>
 
 <h3 align="center">Full Stack Web Developer | Python Developer | Django Enthusiast</h3>
